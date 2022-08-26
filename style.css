@@ -1,0 +1,128 @@
+#sign-up-bar {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.52);
+    margin-left: 700px;
+    margin-right: 800px;
+    margin-top: 200px;
+    width: 350px;
+}
+
+body {
+    background-image: url("https://www.iave.org/iavewp/wp-content/uploads/2020/06/purple-background-registration.png")
+}
+
+#button-fa {
+    background-color: #044CB4; 
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+    border-radius: 4px;
+}
+
+#button-go {
+    background-color: red;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    border: none;
+    border-radius: 4px;
+}
+
+#buttons {
+    margin: 20px;
+    width: 200px;
+    height: 20px;
+}
+
+#button-submit {
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.21);
+    background: #01813F;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+nav {
+    position: absolute;
+    width: 100%;
+    height: 58px;
+    left: 0px;
+    top: 0px;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+#form-header {
+    font-size: 20px;
+    margin: 20px;
+    margin-top: 10px;
+} 
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-google {
+    color: white;
+}
+
+#name {
+    width: 75%;
+    padding: 12px 20px;
+    margin-top: 10px;
+    border: 1px solid #F2F2F2;
+    margin: 10px;
+}
+
+#mail {
+    width: 75%;
+    padding: 12px 20px;
+    margin-top: 10px;
+    border: 1px solid #F2F2F2;
+    margin: 10px;
+}
+
+#pass {
+    width: 75%;
+    padding: 12px 20px;
+    margin-top: 10px;
+    border: 1px solid #F2F2F2;
+    margin: 10px;
+}
+
+#conf {
+    width: 75%;
+    padding: 12px 20px;
+    margin-top: 10px;
+    border: 1px solid #F2F2F2;
+    margin: 10px;
+}
+
+#nav-header {
+    position: absolute;
+    width: 157px;
+    height: 22px;
+    left: 79px;
+    top: 18px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    padding-bottom: 18px;
+}
